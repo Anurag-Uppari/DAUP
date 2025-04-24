@@ -1,0 +1,2 @@
+dataset-1:https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+dataset-2:https://www.kaggle.com/datasets/alessiocorrado99/animals10
